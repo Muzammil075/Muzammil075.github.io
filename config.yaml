@@ -170,7 +170,6 @@ params:
         - "Tools:			JIRA, Confluence, AWS Docker, Git, PostgreSQL, MySQL, SQLite, JUnit"
         - "Platform:		Linux, Web, Windows, IntelliJ IDEA, Visual Studio Code, Postman"
         - "Cloud Technologies:	AWS, Azure, GCP"
-        #- #"Express"
 
   # Experience
   experience:
@@ -183,8 +182,8 @@ params:
         date: "Mar 2024 - present"
         featuredLink:
           enable: false
-          #name: "View the project"
-          #url: "https://example.com"
+          name: "View the project"
+          url: "https://example.com"
         content:  |
           - Improved system uptime and reliability by implementing health-check endpoints and proactive monitoring using Splunk dashboards.
           -  Worked on containerized deployments using Docker, improving application portability and simplifying environment management.
@@ -247,12 +246,6 @@ params:
           -	Involved in deploying systems on Amazon Web Services Infrastructure services EC2, S3. 
           -	Deployed the application on Amazon Web services (AWS) and used it to provide a large computing capacity for scalable solutions. 
 
-
-     # - job: "Product Designer"
-      #  company: "Google"
-      #  companyUrl: ""
-      #  date: "Feb 2016 - Mar 2017"
-       # content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
