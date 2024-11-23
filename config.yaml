@@ -3,6 +3,7 @@ baseURL:"https://Muzammil075.github.io/"
 languageCode: "en-us"
 title: "Muzammil"
 theme: hugo-profile
+canonifyURLs = true
 
 outputs:
   home:
